@@ -37,4 +37,4 @@ El objetivo es **optimizar procesos**, facilitar la **automatización** y servir
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/itTools.git
+   git clone https://github.com/lewssssss/itTools.git
